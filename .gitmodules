@@ -49,3 +49,6 @@
 [submodule "25-Motorbike/lib/forge-std"]
 	path = 25-Motorbike/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "25-Motorbike/lib/openzeppelin-contracts"]
+	path = 25-Motorbike/lib/openzeppelin-contracts
+	url = https://github.com/Openzeppelin/openzeppelin-contracts
