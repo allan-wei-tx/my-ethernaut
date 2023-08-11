@@ -61,3 +61,6 @@
 [submodule "27-GoodSamaritan/lib/forge-std"]
 	path = 27-GoodSamaritan/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "28-GateKeeperThree/lib/forge-std"]
+	path = 28-GateKeeperThree/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
